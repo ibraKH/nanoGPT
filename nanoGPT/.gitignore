@@ -1,0 +1,37 @@
+# OS
+.DS_Store
+.DS_Store?
+
+# Editor
+.idea
+.vscode
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files — large binaries, do not commit
+*.bin
+*.pkl
+
+# Model checkpoints — upload to HuggingFace instead
+*.pt
+
+# Training output directories
+out/
+out-*/
+
+# Wandb logs
+wandb/
+
+# Misc
+input.txt
