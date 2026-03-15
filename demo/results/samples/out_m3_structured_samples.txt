@@ -1,0 +1,15 @@
+=== Sample 1 ===
+<S1> The man was very skinny and skinny. <S2> He only liked the fruits and vegetables. <S3> He threw a rock around a lot. <S4> He was a bit embarrassed and went away. <S5> He was very embarrassed about the cold.<|endoftext|><S1> Jim was watching television. <S2> He pulled over to see what it was. <S3> Jim looked around to see what it was. <S4> Jim decided to check it out. <S5> He was amazed.<|endoftext|><S1> The kids were excited to see the new blockbuster. <S2> They went to see the theatre. <S3> They were all excited to see it.
+
+=== Sample 2 ===
+<S1> Gina had heard a loud noise in the house. <S2> There was a stray dog in her yard. <S3> She tried to get it out of the yard. <S4> It grew to be chased after the dog. <S5> The dog ran out of the yard to chase after her.<|endoftext|><S1> My father really enjoyed going trick or treating. <S2> One Halloween he was so much too scared to treat myself. <S3> He was told to take me camping on Halloween. <S4> He got so good at them, I was very excited. <S5> He ended up looking forward to this holiday this holiday.<|endoftext|><S1> The school planned for
+
+=== Sample 3 ===
+<S1> John had a pair of socks. <S2> He was in a car accident. <S3> It caused him to fall. <S4> He was forced to go to the store. <S5> He had to start to buy new socks.<|endoftext|><S1> Jason didn't like being able to play games. <S2> He wasn't good at playing games with his friends. <S3> He was good at playing games, but he didn't like it. <S4> He decided to play his games instead. <S5> Jason was very glad when he got to play games.<|endoftext|><S1> Laura was enjoying herself a warm summer day. <S2> But there was
+
+=== Sample 4 ===
+<S1> Tim was a new student. <S2> Once he was a kid his professor asked him for a field trip. <S3> He said yes, and they went home. <S4> Tim realized he loved his job and wanted something new. <S5> He decided to go to college as a new kid.<|endoftext|><S1> The boy made funny videos. <S2> He took a photo. <S3> He sat it on and sang it. <S4> The picture was on the news. <S5> The boy loved the photo.<|endoftext|><S1> The man bought a new car. <S2> He drove it to the dealership. <S3> They drove him
+
+=== Sample 5 ===
+<S1> I was watching a movie. <S2> I didn't see the movie in my room. <S3> I found my sister in the room with several toys. <S4> My sister found her toys in the room. <S5> I got mad and grounded her for a week.<|endoftext|><S1> I decided to take a bath. <S2> The bathtub wasn't working. <S3> So I heated the tub with water. <S4> After a few minutes, the water drained. <S5> It was still too dirty to clean.<|endoftext|><S1> Our 2 year old granddaughter has a lot of children. <S2> One day she got pregnant and she had
+

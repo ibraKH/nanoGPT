@@ -1,0 +1,45 @@
+=== Prompt 1 ===
+Given: <S1> Emily forgot her umbrella before leaving for work. <S2>
+
+-- Completion 1 --
+<S1> Emily forgot her umbrella before leaving for work. <S2> She was late for work. <S3> She arrived late and changed her purse. <S4> She was horrified that she couldn't find the umbrella. <S5> Emily had to walk to work without it.<|endoftext|><S1> Sally was playing in the park. <S2> It was a cool summer day. <S3> She had forgotten to take her swimsuit. <S4> However she couldn't find it. <S5> She had to push her feet away.<|endoftext|><S1> Tim loved going on a golf course. <S
+
+-- Completion 2 --
+<S1> Emily forgot her umbrella before leaving for work. <S2> She went to the car wash and it began to rain. <S3> Emily tried to put the umbrella on her clothes. <S4> Unfortunately, the rain didn't cover. <S5> Emily had to rush to get it done.<|endoftext|><S1> Amy had a horrible cold. <S2> She got up from work sick. <S3> She called her boss for help. <S4> Her boss arrived. <S5> She ran to work the next day.<|endoftext|><S1> Jane was running with her dog. <S2>
+
+=== Prompt 2 ===
+Given: <S1> Tom decided to cook dinner for his friends. <S2>
+
+-- Completion 1 --
+<S1> Tom decided to cook dinner for his friends. <S2> He was doing the dishes when all the food came out. <S3> He then decided to burn the dishes. <S4> He burnt the beans and ruined the noodles. <S5> Tom's friends were upset.<|endoftext|><S1> Jane was having a party. <S2> She invited all her friends and family. <S3> They all started to eat and eating. <S4> Jane was sad that she didn't know how to cook. <S5> She wound up having a terrible time and didn't want to go back.<|endoftext|><S
+
+-- Completion 2 --
+<S1> Tom decided to cook dinner for his friends. <S2> He put all the ingredients together. <S3> He put the ingredients on the bread. <S4> It was so good he almost choked it. <S5> He added more salt.<|endoftext|><S1> When I was young, my dad took me to the zoo. <S2> We saw lions and giraffe. <S3> I immediately knew it was a monkey. <S4> I even saw him and gave him a name. <S5> I had not believed him when I saw him so I went home.<|endoftext|><S1> My
+
+=== Prompt 3 ===
+Given: <S1> Lily wanted to start jogging every morning. <S2>
+
+-- Completion 1 --
+<S1> Lily wanted to start jogging every morning. <S2> She grabbed her purse and headed to the water park. <S3> Lily didn't realize that it was her scariest pace of dogs. <S4> She then walked up to the other dogs and got a spot. <S5> She walked home with a nice table and they began to play together.<|endoftext|><S1> My coworkers and I were on a trip to New York City. <S2> In 1999 we went out to a scenic area. <S3> We were exhausted because it was so much fun. <S4> It was a beautiful hotel
+
+-- Completion 2 --
+<S1> Lily wanted to start jogging every morning. <S2> She finally got out of the street. <S3> On the way there Lily stopped at a weird smell. <S4> She started to run. <S5> Lily's legs began to growl.<|endoftext|><S1> The man said he must have been smoking. <S2> He told the waiter he'll get some new filters. <S3> The waiter said that the bill was bad for him. <S4> The doctor told him to quit smoking. <S5> The man bought some new cigarettes.<|endoftext|><S1> Larry's mom was
+
+=== Prompt 4 ===
+Given: <S1> Mark borrowed his sister’s bike for the afternoon. <S2>
+
+-- Completion 1 --
+<S1> Mark borrowed his sister’s bike for the afternoon. <S2> He needed to go to the mall more. <S3> He spent all day searching for dresses for a pair of shoes. <S4> Finally, he found a box a $25 folder. <S5> He asked his sister to buy her the blue gift on the internet.<|endoftext|><S1> The family decided to go to the movies. <S2> They wanted to see a bunch of favorite movies. <S3> They decided to have a scary movie. <S4> They got snacks and talked about it. <S5> It was fun and they
+
+-- Completion 2 --
+<S1> Mark borrowed his sister’s bike for the afternoon. <S2> His sister got him on the bike and was excited. <S3> She found a big note. <S4> She liked the note and wore it all back. <S5> Mark gave her a hug and thanked her.<|endoftext|><S1> Gina had been at her friend's house for hours. <S2> She was running late because of the traffic was hard to come. <S3> She missed her friend who also had to wait. <S4> But her friend told her that she was late. <S5> Gina decided to stay at home and
+
+=== Prompt 5 ===
+Given: <S1> Anna planted tomato seeds in her backyard. <S2>
+
+-- Completion 1 --
+<S1> Anna planted tomato seeds in her backyard. <S2> They grew fruit. <S3> Anna watered them every day. <S4> Soon she grew tomatoes! <S5> Anna's onions grew!<|endoftext|><S1> Anna had just been married for six years. <S2> She was pregnant and had been pregnant for over ten Years. <S3> Finally she was finally here. <S4> Her husband was born and Anna was happy. <S5> When they got married they happily bonded.<|endoftext|><S1> Fred was a little boy. <S2> He always wanted to be a scientist.
+
+-- Completion 2 --
+<S1> Anna planted tomato seeds in her backyard. <S2> She watered them everyday. <S3> But she began to grow. <S4> Soon they grew! <S5> Anna's tomato plants grew in every year!<|endoftext|><S1> Sam was shopping for work at the local mall. <S2> His favorite store was building the same restaurant. <S3> He decided he would take part in the other car. <S4> After trying to stop the business he decided not to. <S5> He was sad he didn't have to be leaving.<|endoftext|><S1> I took the dog out for
+
