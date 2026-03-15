@@ -1,0 +1,42 @@
+# ===========================================================================
+# M2 — Reverse Causal — SMOKE TEST (50 iterations only)
+# ===========================================================================
+# Purpose: Verify M2 data pipeline works before full training.
+#
+# Run:
+#   python train.py config/test_m2_reverse.py
+# ===========================================================================
+
+out_dir = 'out-test-m2'
+wandb_log = False
+
+dataset = 'rocstories_reverse'
+
+max_iters = 50
+eval_interval = 25
+eval_iters = 10
+log_interval = 5
+always_save_checkpoint = False
+
+n_layer = 6
+n_head = 6
+n_embd = 384
+block_size = 256
+dropout = 0.2
+bias = False
+
+batch_size = 64
+gradient_accumulation_steps = 1
+
+learning_rate = 1e-3
+min_lr = 1e-4
+lr_decay_iters = 50
+warmup_iters = 5
+decay_lr = True
+
+beta1 = 0.9
+beta2 = 0.99
+weight_decay = 1e-1
+grad_clip = 1.0
+
+compile = False
