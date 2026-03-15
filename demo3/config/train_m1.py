@@ -1,5 +1,6 @@
 # M1 Forward — SUBMISSION MODEL
-# Full training config: 5000 iters, block_size=512, dropout=0.3
+# Reduced model size to avoid overfitting on 3.7M token dataset
+# Transformer body ~3.1M params (Chinchilla-optimal for this data size)
 out_dir = 'out-m1'
 dataset = 'rocstories'
 wandb_log = False
@@ -10,11 +11,11 @@ eval_iters = 200
 log_interval = 10
 always_save_checkpoint = False
 
-n_layer = 6
-n_head = 6
-n_embd = 384
+n_layer = 4
+n_head = 4
+n_embd = 256
 block_size = 512
-dropout = 0.3
+dropout = 0.35
 bias = False
 
 batch_size = 32
@@ -28,6 +29,6 @@ decay_lr = True
 
 beta1 = 0.9
 beta2 = 0.99
-weight_decay = 0.15
+weight_decay = 0.2
 grad_clip = 1.0
 compile = True

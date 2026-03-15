@@ -12,11 +12,11 @@ lr_decay_iters = 50
 warmup_iters = 5
 compile = False
 
-n_layer = 6
-n_head = 6
-n_embd = 384
+n_layer = 4
+n_head = 4
+n_embd = 256
 block_size = 512
-dropout = 0.3
+dropout = 0.35
 bias = False
 
 batch_size = 32
@@ -27,5 +27,5 @@ decay_lr = True
 
 beta1 = 0.9
 beta2 = 0.99
-weight_decay = 0.15
+weight_decay = 0.2
 grad_clip = 1.0
